@@ -1,0 +1,14 @@
+/.psci*
+/.pulp-cache
+/.travis.yml
+/binaries
+/bower_components/
+/build.sh
+/deploy.sh
+/docs/*.md
+/docs/*.sh
+/docs/template.readme
+/insect.js
+/node_modules/
+/output
+/web
